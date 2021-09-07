@@ -1,0 +1,31 @@
+@media (min-width: 600px), (max-width: 599px) {
+    body {
+        background-color: rgb(49, 97, 193);
+       
+    }
+    h1{
+        font-family: 'Parisienne', cursive;
+        text-align: center;
+        border-radius: 25px;
+        background-color: white; 
+        
+    }
+   
+    iframe {
+        font-family: 'Architects Daughter', cursive;
+    }
+    
+    address {
+        font-family: 'Parisienne', cursive ;
+        padding: 10px;
+        border-radius : 30px ;
+        background-color: blanchedalmond ;
+    }
+    p {
+        font-family: 'Parisienne', cursive;
+    }
+}
+
+    
+
+
